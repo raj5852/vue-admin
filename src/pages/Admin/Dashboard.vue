@@ -1,15 +1,7 @@
 <template>
     <div>
         <AdminHeader></AdminHeader>
-        <aside id="sidebar" class="sidebar">
-            <ul class="sidebar-nav" id="sidebar-nav">
-                <li class="nav-item">
-                    <router-link class="nav-link " to="#"> <i class="bi bi-file-earmark"></i>
-                        <span>Dashboard</span>
-                    </router-link>
-                </li>
-            </ul>
-        </aside>
+        
         <main id="main" class="main">
             <div class="pagetitle">
                 <h1>Dashboard</h1>
