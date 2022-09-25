@@ -5,9 +5,9 @@
 </template>
 
 <script>
-import Dashboard from './pages/Admin/Dashboard.vue';
+
 export default {
-    components: { Dashboard }
+
 }
 </script>
 
